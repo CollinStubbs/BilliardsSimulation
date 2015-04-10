@@ -1,5 +1,5 @@
 # Billiards Simulation
-Simulation of a shot in a game of billiards
+Simulation of a shot in a game of billiards.
 
 When testing, use the values below to simulate the shot as realistic as possible:
 
@@ -12,3 +12,6 @@ Gravity: 9.81
 Table Friction: 0.2
 
 Angle: 0-360
+
+
+Needs: python 2.7, vpython, and Tkinter
